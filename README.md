@@ -110,8 +110,3 @@ Battery-powered portable version
 
 
 
----
-
-📸 Preview
-
-Add images / GIFs here
